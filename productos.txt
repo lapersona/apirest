@@ -20,7 +20,7 @@
 	{
 		"title": "Ipad",
 		"price": 29000.5,
-		"thumbnail": "https://www.macstation.com.ar/img/productos/2450-1.jpg",
+		"thumbnail": "https://www.macstation.com.ar/img/productos/24-1.jpg",
 		"id": 4
 	}
 ]
