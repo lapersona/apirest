@@ -21,7 +21,6 @@ router.get( '/', ( req, res ) => {
 });
 
 
-
 router.get( '/:id', ( req, res ) => {
     const id = Number( req.params.id );
     const read = fs.readFileSync( './productos.txt', 'utf-8' );
@@ -71,7 +70,6 @@ router.put( '/:id', ( req, res ) => {
         res.json( product );
     }
 });
-
 
 
 router.delete( '/:id', ( req, res ) => {
